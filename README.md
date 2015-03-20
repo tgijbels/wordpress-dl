@@ -1,6 +1,3 @@
-# wordpress-dl
-Download the latest version of wordpress directly from the commandline
-
 # INSTALLATION
 
 To install it right away for all UNIX users (Linux, oS X, etc.), type:

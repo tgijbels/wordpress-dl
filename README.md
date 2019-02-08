@@ -3,7 +3,7 @@
 To install it right away for all UNIX users (Linux, oS X, etc.), type:
 
   ```
-  sudo curl https://cdn.rawgit.com/tgijbels/wordpress-dl/master/wordpress-dl -o /usr/local/bin/wordpress-dl
+  sudo curl https://cdn.jsdelivr.net/gh/tgijbels/wordpress-dl@master/wordpress-dl -o /usr/local/bin/wordpress-dl
   sudo chmod a+x /usr/local/bin/wordpress-dl
   ```
   
